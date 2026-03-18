@@ -132,4 +132,4 @@ for target in targets:
 <img width="540" height="109" alt="Screenshot 2026-03-18 154103" src="https://github.com/user-attachments/assets/87e076cb-05dd-418d-a9b6-d33c58146366" />
 
 ## Result:
-Thus th program to  predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm is written and verified using python programming.
+Thus the program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm is written and verified using python programming.
